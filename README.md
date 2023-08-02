@@ -1,3 +1,3 @@
 # Generation Brasil
 
-Exercicios de laço condiociona Switch feitos em Java.
+Exercicios de laço condiocional Switch feitos em Java.
